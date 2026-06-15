@@ -1,0 +1,6 @@
+{
+  "name": "Abhishek Chaudhari Portfolio",
+  "description": "Deep dark mode portfolio featuring vanilla JS animations and particle canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
