@@ -6,7 +6,7 @@
 
 A high-performance, cinematic developer portfolio featuring deep dark mode aesthetics, zero-dependency vanilla JS animations, and glassmorphism UI. Designed to showcase production-grade architecture, full-stack projects, and system scalability.
 
-🌐 **[View Live Portfolio]([https://github.com/ABHIKALVIUM/PORTFOLIO](https://portfolio-eoef.vercel.app/#home))** | 📄 **[Download Resume](https://drive.google.com/file/d/16W_IfdJOb9z9PVJb-qAW44GZZoEWHGnj/view?usp=sharing)**
+🌐 **[View Live Portfolio](https://portfolio-eoef.vercel.app/#home)** | 📄 **[Download Resume](https://drive.google.com/file/d/16W_IfdJOb9z9PVJb-qAW44GZZoEWHGnj/view?usp=sharing)**
 
 ---
 
